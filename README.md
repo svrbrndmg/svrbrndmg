@@ -1,0 +1,12 @@
+Why don't we use this little Github default template, eh?:
+- 👋 Hi, I’m @svrbrndmg
+- 👀 I’m interested in coding and writing.
+- 🌱 I’m currently learning Python, after using it a lot in school when it was mandatory, then not touching it for a while.
+- 📫 How to reach me: [email](mailto:svrbrndmg@proton.me), or @svrbrndmg on discord.
+- 😄 Pronouns: he/him/any
+- ✨ Projects:
+     - ✔ waverand - why did I make this it is like 5 lines of code.
+     - ✔ mah blog - I mean it was pretty easy to set up. Thanks to Chad Baldwin for the template!
+     - ✔ dis readme - you're reading it.
+     - ❌ UI-Buddy - Not where I want it to be yet. Powerful in its own right, but not yet in 1.0.
+     - ❔ ??? - some secret schtuff shhhh
