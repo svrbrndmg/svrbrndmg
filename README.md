@@ -8,5 +8,6 @@ Why don't we use this little Github default template, eh?:
      - ✔ waverand - why did I make this it is like 5 lines of code.
      - ✔ mah blog - I mean it was pretty easy to set up. Thanks to Chad Baldwin for the template!
      - ✔ dis readme - you're reading it.
+     - ✔ really simple rps - done. might help someone somewhere. maybe.
      - ❌ UI-Buddy - Not where I want it to be yet. Powerful in its own right, but not yet in 1.0.
      - ❔ ??? - some secret schtuff shhhh
