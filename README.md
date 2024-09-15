@@ -10,4 +10,5 @@ Why don't we use this little Github default template, eh?:
      - ✔ dis readme - you're reading it.
      - ✔ really simple rps - done. might help someone somewhere. maybe.
      - ❌ UI-Buddy - Not where I want it to be yet. Powerful in its own right, but not yet in 1.0.
+     - ❌ Flappy Bird Clone (just flappy-bird on github)  - Not yettt. I wanna add some more gameplay stuff, like coins and the like.
      - ❔ ??? - some secret schtuff shhhh
