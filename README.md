@@ -7,6 +7,7 @@ Why don't we use this little Github default template, eh?:
 - ✨ Projects:
      - ✔️ mah blog - I mean it was pretty easy to set up. Thanks to Chad Baldwin for the template!
      - ✔️ dis readme - you're reading it.
+     - ✔️ Hardcore Idler - done. play it [here](https://svrbrndmg.itch.io/hardcore-idler). my first big game
      - ✔️ physics toy - probably won't add more onto it. it's fun enough even at this point. weee!
      - ✔️ Pong Clone - yeah, I don't really wanna add more to this. Or feel that I need to.
      - ✔️ really simple rps - done. might help someone somewhere. maybe.
