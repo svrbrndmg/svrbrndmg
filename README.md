@@ -14,5 +14,4 @@ Why don't we use this little Github default template, eh?:
      - ✔️ waverand - why did I make this it is like 5 lines of code.
      - ❌ UI-Buddy - Not where I want it to be yet. Powerful in its own right, but not yet in 1.0.
      - ❌ Flappy Bird Clone (just flappy-bird on github)  - Not yettt. I wanna add some more gameplay stuff, like coins and the like.
-     - ❌ Idle Game (name not finalized) - Game is basically done, just gotta add content to it. It isn't on Github yet, btw.
      - ❔ ??? - some secret schtuff shhhh
