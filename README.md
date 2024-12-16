@@ -7,6 +7,7 @@ Why don't we use this little Github default template, eh?
 - ✨ Projects:
      - ✔️ [Hardcore Idler](https://svrbrndmg.itch.io/hardcore-idler) - done. it's my first big game. please play it
      - ✔️ [Physics Toy](https://github.com/svrbrndmg/physics-toy) - probably won't add more onto it. it's fun enough even at this point. weee!
+     - ✔️ [UI-Buddy Website](https://ui-buddy.github.io/UI-Buddy) - my first good website. In the style of Web 2.0, with a touch of modern fun.
      - ✔️ [Pong Clone](https://github.com/svrbrndmg/pong) - yeah, I don't really wanna add more to this. Or feel that I need to. It's a Pong clone.
      - ✔️ [mah blog](https://svrbrndmg.github.io) - I mean it wasn't really my code. Thanks to Chad Baldwin for the great template!
      - ✔️ dis readme - you're reading it.
