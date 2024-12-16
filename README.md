@@ -1,6 +1,6 @@
-Why don't we use this little Github default template, eh?
-- 👋 Hi, I’m @svrbrndmg
-- 👀 I’m interested in gamedev, coding and writing.
+## Why don't we use this little Github default template, eh?
+- 👋 Hi, I’m [**@svrbrndmg**](https://github.com/svrbrndmg)!
+- 👀 I’m interested in *gamedev, coding and writing.*
 - 🌱 I’m currently learning HTML/CSS/JS, but you likely won't see much of that here on Github. Before that I used to work in Python.
 - 📫 How to reach me: [email me](mailto:svrbrndmg@proton.me), or DM @svrbrndmg on discord.
 - 😄 Pronouns: he/him/any
@@ -17,9 +17,12 @@ Why don't we use this little Github default template, eh?
      - ❌ [Flappy Bird Clone](https://github.com/svrbrndmg/flappy-bird)  - 5 more minutes please!!! I wanna add some more gameplay stuff, like collectible coins and the like.
      - ❔ ??? - some secret schtuff shhhh
 
+---
 
-Images:
+Some images of my stuff:
 
 Hardcore Idler | UI-Buddy Website |  Collage of various Github projects
 :-------------------------:|:-------------------------:|:-------------------------:
-![Hardcore Idler logo](logo%20smaller.png)  |  ![UI-Buddy Website](uibuddysite.png) | ![Collage of various Github projects](severecollagefinal.png)
+![Hardcore Idler logo](logo%20smallest.png)  |  ![UI-Buddy Website](uibuddysite.png) | ![Collage of various Github projects](severecollagefinal.png)
+
+### Click on an image to see it in full!
