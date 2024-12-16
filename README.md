@@ -16,3 +16,10 @@ Why don't we use this little Github default template, eh?
      - ❌ [UI-Buddy](https://github.com/svrbrndmg/ui-buddy) - Not where I want it to be yet. Powerful in its own right, but not yet in 1.0. I'm just procrastinating this pretty much
      - ❌ [Flappy Bird Clone](https://github.com/svrbrndmg/flappy-bird)  - 5 more minutes please!!! I wanna add some more gameplay stuff, like collectible coins and the like.
      - ❔ ??? - some secret schtuff shhhh
+
+
+Images:
+
+Hardcore Idler | UI-Buddy Website |  Collage of various Github projects
+:-------------------------:|:-------------------------:|:-------------------------:
+![Hardcore Idler logo](logo%20smaller.png)  |  ![UI-Buddy Website](uibuddysite.png) | ![Collage of various Github projects](severecollagefinal.png)
