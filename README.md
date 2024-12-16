@@ -1,17 +1,17 @@
-Why don't we use this little Github default template, eh?:
+Why don't we use this little Github default template, eh?
 - 👋 Hi, I’m @svrbrndmg
-- 👀 I’m interested in coding and writing.
-- 🌱 I’m currently learning Python, after using it a lot in school when it was mandatory, then not touching it for a while.
-- 📫 How to reach me: [email](mailto:svrbrndmg@proton.me), or @svrbrndmg on discord.
+- 👀 I’m interested in gamedev, coding and writing.
+- 🌱 I’m currently learning HTML/CSS/JS, but you likely won't see much of that here on Github. Before that I used to work in Python.
+- 📫 How to reach me: [email me](mailto:svrbrndmg@proton.me), or DM @svrbrndmg on discord.
 - 😄 Pronouns: he/him/any
 - ✨ Projects:
-     - ✔️ mah blog - I mean it was pretty easy to set up. Thanks to Chad Baldwin for the template!
+     - ✔️ [Hardcore Idler](https://svrbrndmg.itch.io/hardcore-idler) - done. it's my first big game. please play it
+     - ✔️ [Physics Toy](https://github.com/svrbrndmg/physics-toy) - probably won't add more onto it. it's fun enough even at this point. weee!
+     - ✔️ [Pong Clone](https://github.com/svrbrndmg/pong) - yeah, I don't really wanna add more to this. Or feel that I need to. It's a Pong clone.
+     - ✔️ [mah blog](https://svrbrndmg.github.io) - I mean it wasn't really my code. Thanks to Chad Baldwin for the great template!
      - ✔️ dis readme - you're reading it.
-     - ✔️ Hardcore Idler - done. play it [here](https://svrbrndmg.itch.io/hardcore-idler). my first big game
-     - ✔️ physics toy - probably won't add more onto it. it's fun enough even at this point. weee!
-     - ✔️ Pong Clone - yeah, I don't really wanna add more to this. Or feel that I need to.
-     - ✔️ really simple rps - done. might help someone somewhere. maybe.
-     - ✔️ waverand - why did I make this it is like 5 lines of code.
-     - ❌ UI-Buddy - Not where I want it to be yet. Powerful in its own right, but not yet in 1.0.
-     - ❌ Flappy Bird Clone (just flappy-bird on github)  - Not yettt. I wanna add some more gameplay stuff, like coins and the like.
+     - ✔️ [really simple rps](https://github.com/svrbrndmg/really-simple-rps) - done. might help someone somewhere. maybe.
+     - ✔️ waverand - why did I make this it is like 5 lines of code. (I'm not putting the link here as I'm probably gonna delete this lol)
+     - ❌ [UI-Buddy](https://github.com/svrbrndmg/ui-buddy) - Not where I want it to be yet. Powerful in its own right, but not yet in 1.0. I'm just procrastinating this pretty much
+     - ❌ [Flappy Bird Clone](https://github.com/svrbrndmg/flappy-bird)  - 5 more minutes please!!! I wanna add some more gameplay stuff, like collectible coins and the like.
      - ❔ ??? - some secret schtuff shhhh
