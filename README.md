@@ -1,4 +1,4 @@
-## Why don't we use this little Github default template, eh?
+# Damage to the Brain that is Severe!
 - 👋 Hi, I’m [**@svrbrndmg**](https://github.com/svrbrndmg)!
 - 👀 I’m interested in *gamedev, coding and writing.*
 - 🌱 I’m currently learning HTML/CSS/JS, but you likely won't see much of that here on Github. Before that I used to work in Python.
@@ -7,7 +7,7 @@
 - ✨ Projects:
      - ✔️ [Hardcore Idler](https://svrbrndmg.itch.io/hardcore-idler) - done. it's my first big game. please play it
      - ✔️ [Physics Toy](https://github.com/svrbrndmg/physics-toy) - probably won't add more onto it. it's fun enough even at this point. weee!
-     - ✔️ [UI-Buddy Website](https://ui-buddy.github.io/UI-Buddy) - my first good website. In the style of Web 2.0, with a touch of modern fun.
+     - ✔️ [UI-Buddy Website](https://ui-buddy.github.io/UI-Buddy) - my first "good" website. In the style of Web 2.0, with a touch of modern fun.
      - ✔️ [Pong Clone](https://github.com/svrbrndmg/pong) - yeah, I don't really wanna add more to this. Or feel that I need to. It's a Pong clone.
      - ✔️ [mah blog](https://svrbrndmg.github.io) - I mean it wasn't really my code. Thanks to Chad Baldwin for the great template!
      - ✔️ dis readme - you're reading it.
@@ -17,11 +17,10 @@
      - ❌ [Flappy Bird Clone](https://github.com/svrbrndmg/flappy-bird)  - 5 more minutes please!!! I wanna add some more gameplay stuff, like collectible coins and the like.
      - ❔ ??? - some secret schtuff shhhh
 
----
+## 
+### Some images of my stuff:
 
-Some images of my stuff:
-
-Hardcore Idler | UI-Buddy Website |  Collage of various Github projects
+Hardcore Idler (this wonderful logo by [CptFuzball](https://campsite.bio/cptfuzball)) | UI-Buddy Website |  Collage of various Github projects
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Hardcore Idler logo](logo%20smallest.png)  |  ![UI-Buddy Website](uibuddysite.png) | ![Collage of various Github projects](severecollagefinal.png)
 
