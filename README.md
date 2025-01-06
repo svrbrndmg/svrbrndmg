@@ -14,6 +14,7 @@
      - ✔️ [really simple rps](https://github.com/svrbrndmg/really-simple-rps) - done. might help someone somewhere. maybe.
      - ✔️ waverand - why did I make this it is like 5 lines of code. (I'm not putting the link here as I'm probably gonna delete this lol)
      - ❌ [UI-Buddy](https://github.com/svrbrndmg/ui-buddy) - Not where I want it to be yet. Powerful in its own right, but not yet in 1.0. I'm just procrastinating this pretty much
+     - ❌ [Toki Tori Website](https://svrbrndmg.neocities.org) - "Archival" project. Mostly done, but I can't find the goddamn quicktime movies someone please for the love of g-
      - ❌ [Flappy Bird Clone](https://github.com/svrbrndmg/flappy-bird)  - 5 more minutes please!!! I wanna add some more gameplay stuff, like collectible coins and the like.
      - ❔ ??? - some secret schtuff shhhh
 
